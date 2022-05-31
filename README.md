@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Fernando Antunes!
 
+<p>Meu nome é Fernando Antunes! Sou um desenvolvedor júnior apaixonado por desafios lógicos e intelectuais.</p>
+
 <div align="center">
   <a href="https://github.com/fantunesdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantunesdev&layout=compact&langs_count=7&theme=github_dark"/>
