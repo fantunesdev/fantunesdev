@@ -1,4 +1,4 @@
-### Olá! Eu sou o Fernando Antunes!
+### Seja bem vindo(a)!
 
 <p>Meu nome é Fernando Antunes! Sou um desenvolvedor júnior apaixonado por desafios lógicos e intelectuais.</p>
 
