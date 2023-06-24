@@ -36,3 +36,23 @@
 <div>
    <a href="https://www.linkedin.com/in/fernando-antunes-dev/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<div>
+  Principais Projetos
+  <ul>
+    <li>
+      <a href="https://github.com/fantunesdev/financeiro/tree/develop">Sistema de Controle financeiro - Python/Django/JavaScript</a>
+    </li>
+    <li>
+      <a href="https://github.com/fantunesdev/password">Desafio de código TOTVS - Python/Django/JavaScript</a>
+    </li>
+    <li>
+      <a href="https://github.com/fantunesdev/leme">Desafio de código Leme - PHP/Laravel</a>
+    </li>
+    <li>
+      <a href="https://github.com/fantunesdev/vaultctl">VaultCtl - Python</a>
+    </li>
+    <li>
+      <a href="https://github.com/fantunesdev/analises_economicas">Análises Econômicas - Python/Pandas/BeautifullSoup</a>
+    </li>
+  </ul>
+</div>
