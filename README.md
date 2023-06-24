@@ -39,9 +39,21 @@
 <br>
 <div>
   <h2>Principais Projetos</h2>
-    <a href="https://github.com/fantunesdev/financeiro/tree/develop">Sistema de Controle financeiro - Python/Django/JavaScript</a><br>
-    <a href="https://github.com/fantunesdev/password">Desafio de código TOTVS - Python/Django/JavaScript</a><br>
-    <a href="https://github.com/fantunesdev/leme">Desafio de código Leme - PHP/Laravel</a><br>
-    <a href="https://github.com/fantunesdev/vaultctl">VaultCtl - Python</a><br>
-    <a href="https://github.com/fantunesdev/analises_economicas">Análises Econômicas - Python/Pandas/BeautifullSoup</a><br>
+  <ul>
+    <li>
+      <a href="https://github.com/fantunesdev/financeiro/tree/develop">Sistema de Controle financeiro - Python/Django/JavaScript</a><br>
+    </li>
+    <li>
+      <a href="https://github.com/fantunesdev/password">Desafio de código TOTVS - Python/Django/JavaScript</a><br>
+    </li>
+    <li>
+      <a href="https://github.com/fantunesdev/leme">Desafio de código Leme - PHP/Laravel</a><br>
+    </li>
+    <li>
+      <a href="https://github.com/fantunesdev/vaultctl">VaultCtl - Python</a><br>
+    </li>
+    <li>
+      <a href="https://github.com/fantunesdev/analises_economicas">Análises Econômicas - Python/Pandas/BeautifullSoup</a><br>
+    </li>
+  </ul>
 </div>
