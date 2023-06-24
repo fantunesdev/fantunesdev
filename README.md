@@ -1,6 +1,9 @@
 ### Seja bem vindo(a)!
 
 <p>Meu nome é Fernando Antunes! Sou um desenvolvedor júnior apaixonado por desafios lógicos e intelectuais.</p>
+<div>
+   <a href="https://www.linkedin.com/in/fernando-antunes-dev/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 <div align="center">
   <a href="https://github.com/fantunesdev">
@@ -9,16 +12,15 @@
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fantunesdev&theme=github_dark"/>
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fantunesdev&theme=github_dark"/>
 </div>
-<!--
+<br>
+<h2>Tecnologias</h2>
 <div>
   <img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/django-43853D?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&amp;logo=mysql&amp;logoColor=white">
 </div>
--->
-<br>
-<h2>Tecnologias</h2>
+<!--
 <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="40" />
@@ -34,10 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="40" />
 </div>
+-->
 <br>
-<div>
-   <a href="https://www.linkedin.com/in/fernando-antunes-dev/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 <br>
 <div>
   <h2>Principais Projetos</h2>
