@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&amp;logo=mysql&amp;logoColor=white">
 </div>
 -->
+<br>
+<h2>Tecnologias</h2>
 <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="40" />
@@ -41,19 +43,19 @@
   <h2>Principais Projetos</h2>
   <ul>
     <li>
-      <a href="https://github.com/fantunesdev/financeiro/tree/develop">Sistema de Controle financeiro - Python/Django/JavaScript</a><br>
+      <a href="https://github.com/fantunesdev/financeiro/tree/develop">Sistema de Controle financeiro (Python, Django, JavaScript)</a>
     </li>
     <li>
-      <a href="https://github.com/fantunesdev/password">Desafio de código TOTVS - Python/Django/JavaScript</a><br>
+      <a href="https://github.com/fantunesdev/password">Desafio de código TOTVS (Python, Django, JavaScript)</a>
     </li>
     <li>
-      <a href="https://github.com/fantunesdev/leme">Desafio de código Leme - PHP/Laravel</a><br>
+      <a href="https://github.com/fantunesdev/leme">Desafio de código Leme (PHP, Laravel)</a>
     </li>
     <li>
-      <a href="https://github.com/fantunesdev/vaultctl">VaultCtl - Python</a><br>
+      <a href="https://github.com/fantunesdev/vaultctl">VaultCtl - (Python)</a>
     </li>
     <li>
-      <a href="https://github.com/fantunesdev/analises_economicas">Análises Econômicas - Python/Pandas/BeautifullSoup</a><br>
+      <a href="https://github.com/fantunesdev/analises_economicas">Análises Econômicas - (Python/Pandas/BeautifullSoup)</a>
     </li>
   </ul>
 </div>
