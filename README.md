@@ -1,6 +1,6 @@
 <h1>Seja bem vindo(a) ao meu GitHub!</h1>
 
-<p>Meu nome é Fernando Antunes! Sou um desenvolvedor júnior apaixonado por desafios lógicos e intelectuais.</p>
+<p>Meu nome é Fernando Antunes! Sou um desenvolvedor apaixonado por desafios lógicos e intelectuais.</p>
 <br>
 <div>
    <a href="https://www.linkedin.com/in/fernando-antunes-dev/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
