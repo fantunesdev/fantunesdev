@@ -58,7 +58,7 @@
   <h2>Principais Projetos</h2>
   <ul>
     <li>
-      <a href="https://github.com/fantunesdev/financeiro/tree/develop">Sistema de Controle financeiro (Python, Django, JavaScript)</a>
+      <a href="https://github.com/fantunesdev/financeiro">Sistema de Controle financeiro (Python, Django, JavaScript)</a>
     </li>
     <li>
       <a href="https://github.com/fantunesdev/password">Desafio de código TOTVS (Python, Django, JavaScript)</a>
